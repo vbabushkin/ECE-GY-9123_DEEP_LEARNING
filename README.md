@@ -5,11 +5,9 @@
 
 #### Project  Report  for  ECE-GY 9123 Deep  Learning Course
 
-
-### Course  Instructor:  Dr. Chinmay Hegde
-
 #### Vahan Babushkin
-
+  
+### Course  Instructor:  Dr. Chinmay Hegde
 
 #### Please check [project report](https://github.com/vbabushkin/ECE-GY-9123_DEEP_LEARNING/blob/main/REPORT/PROJECT_REPORT.pdf) for more details
 
