@@ -1,5 +1,3 @@
-# 
-DEEP LEARNING COURSE PROJECT
 <div align="center"> 
   
 
