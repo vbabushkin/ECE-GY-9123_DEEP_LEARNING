@@ -26,8 +26,8 @@ A sensorimotor skill can be defined as a sequence of continuous motions produced
 </div>
 
 <div align="justify"> 
-Paszke, A., Gross, S., Massa, F., Lerer, A., Bradbury, J., Chanan, G., … Chintala, S. PyTorch: An Imperative Style, High-Performance Deep Learning Library. In Advances in Neural Information Processing Systems 32 (pp. 8024–8035). Curran Associates, Inc., 2019.
-  
+Paszke, A., Gross, S., Massa, F., Lerer, A., Bradbury, J., Chanan, G., … Chintala, S. PyTorch: An Imperative Style, High-Performance Deep Learning Library. In Advances in Neural Information Processing Systems 32 (pp. 8024–8035). Curran Associates, Inc., 2019.<br><br>
+
 Adam Paszke, Sam Gross, Soumith Chintala, Gregory Chanan, Edward Yang, Zachary DeVito, Zeming Lin, Alban Desmaison, Luca Antiga, Adam Lerer, "Automatic differentiation in PyTorch," NIPS-W, 2017.
 
 Martín Abadi, Paul Barham, Jianmin Chen, Zhifeng Chen, Andy Davis, Jeffrey Dean,
@@ -42,5 +42,5 @@ Michael L. Waskom, "Seaborn: Statistical Data Visualization," Journal of Open So
   
 Jeff Reback, Wes McKinney, jbrockmendel, Joris Van den Bossche, Tom Augspurger, Phillip Cloud, … Mortada Mehyar. (2020, March 18). pandas-dev/pandas: Pandas 1.0.3 (Version v1.0.3). Zenodo.
   
-Harris, C.R., Millman, K.J., van der Walt, S.J. et al. Array programming with NumPy. Nature 585, 357–362, 2020.
+Harris, C.R., Millman, K.J., van der Walt, S.J. et al. "Array programming with NumPy," Nature 585, 357–362, 2020.
 </div>
